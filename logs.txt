@@ -1,0 +1,12 @@
+
+Name = Maksym, Username = Rushiusu;Name = Maksym Choice = Дія? Number = 27;
+Name = Maksym Choice = Правда? Number = 214;
+Name = Maksym Choice = Дія? Number = 67;
+Name = Maksym Choice = Правда? Number = 163;
+Name = Maksym Choice = Дія? Number = 7;
+Name = Maksym Choice = Правда? Number = 163;
+Name = Maksym Choice = Дія? Number = 49;
+Name = Maksym Choice = Правда? Number = 177;
+Name = Maksym Choice = Дія? Number = 72;
+Name = Maksym Choice = Дія? Number = 74;
+Name = Maksym Choice = Правда? Number = 61;
